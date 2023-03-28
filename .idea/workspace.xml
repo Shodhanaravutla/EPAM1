@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64251834-5ea4-40ec-89c8-77baa2d3b504" name="Changes" comment="program executed">
+    <list default="true" id="64251834-5ea4-40ec-89c8-77baa2d3b504" name="Changes" comment="28/03/2023 programs executed">
+      <change afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Simple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Simple.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679924455058</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="28/03/2023 programs executed">
+      <created>1680021870320</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680021870320</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,7 +103,8 @@
     <MESSAGE value=" First commit" />
     <MESSAGE value="my notes on 25/03/2023" />
     <MESSAGE value="program executed" />
-    <option name="LAST_COMMIT_MESSAGE" value="program executed" />
+    <MESSAGE value="28/03/2023 programs executed" />
+    <option name="LAST_COMMIT_MESSAGE" value="28/03/2023 programs executed" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
